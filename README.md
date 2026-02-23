@@ -36,7 +36,7 @@ AM2302 Sensor
       ▼
 ESP32-S3-N16R8
   │         │
-  │         └──► Onboard RGB LED 💡 (colour reflects temperature)
+  │         └──► Onboard RGB LED  (colour reflects temperature)
   │
   ▼ WiFi / MQTT
 ThingsBoard Cloud
