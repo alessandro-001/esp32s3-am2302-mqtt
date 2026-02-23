@@ -193,8 +193,13 @@ To create a live graph:
 | ThingsBoard not receiving data | Wrong token | Re-copy token from ThingsBoard device page |
 | Garbage in Serial Monitor | Wrong baud rate | Set Serial Monitor to **115200** |
 
-
 ---
+
+<img src="assets/images/board.jpg" width="400" alt="ESP32-S3 Board"/>
+<img src="assets/images/wiring.jpg" width="400" alt="AM2302 Wiring"/>
+<img src="assets/images/DHT22.jpg" width="400" alt="DHT22"/>
+<img src="assets/images/thingsboard.png" width="400" alt="ThingsBoard dashboard"/>
+
 
 ## License
 
