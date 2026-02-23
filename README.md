@@ -195,10 +195,10 @@ To create a live graph:
 
 ---
 
-<img src="assets/images/board.jpg" width="400" alt="ESP32-S3 Board"/>
-<img src="assets/images/wiring.jpg" width="400" alt="AM2302 Wiring"/>
-<img src="assets/images/DHT22.jpg" width="400" alt="DHT22"/>
-<img src="assets/images/thingsboard.png" width="400" alt="ThingsBoard dashboard"/>
+<img src="assets/images/board.jpg" width="400" alt="ESP32-S3 Board"/> ESP32-S3 Board
+<img src="assets/images/wiring.jpg" width="400" alt="AM2302 Wiring"/> AM2302 Wiring
+<img src="assets/images/DHT22.jpg" width="400" alt="DHT22"/> DHT22
+<img src="assets/images/thingsboard.png" width="400" alt="ThingsBoard dashboard"/> ThingsBoard dashboard
 
 
 ## License
