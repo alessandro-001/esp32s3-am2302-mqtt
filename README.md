@@ -22,6 +22,7 @@ IoT project that reads **temperature and humidity** from an **AOSONG AM2302 (DHT
 - [RGB LED Behaviour](#rgb-led-behaviour)
 - [ThingsBoard Dashboard](#thingsboard-dashboard)
 - [Troubleshooting](#troubleshooting)
+- [Troubleshooting](#troubleshooting)
 
 
 ---
@@ -150,6 +151,18 @@ Connecting to ThingsBoard... Connected!
 Ready — sending sensor data to ThingsBoard!
 Sent: {"temperature":25.5,"humidity":60.7}
 ```
+
+### 7) Setting Up Alarms on ThigsBoard Cloud
+
+ThingsBoard lets you create alarms to get notified when temperature or humidity goes outside your desired range.
+
+To configure alarms and start monitoring your sensor data:
+
+1. Log in to [thingsboard.cloud](https://thingsboard.cloud)
+2. Follow the [ThingsBoard Getting Started Guide](https://thingsboard.io/docs/getting-started-guides/helloworld/)
+3. Use the `temperature` and `humidity` telemetry keys from your device to set up alarm rules
+
+Once configured, you can receive notifications when readings exceed your thresholds.
 
 ---
 
