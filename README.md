@@ -22,7 +22,7 @@ IoT project that reads **temperature and humidity** from an **AOSONG AM2302 (DHT
 - [RGB LED Behaviour](#rgb-led-behaviour)
 - [ThingsBoard Dashboard](#thingsboard-dashboard)
 - [Troubleshooting](#troubleshooting)
-- [Future Improvements](#future-improvements)
+
 
 ---
 
